@@ -8,7 +8,7 @@ YOLOv5-ODConvNeXt is an improved version of YOLOv5s for ship detection on drone-
 ## Install
 
 ```bash
-git clone https://github.com/chengshuxiao/YOLOv5-ODConvNeXt.git  # clone
+git clone https://github.com/hariv24/YOLOv5-ODConvNeXt/tree/main  # clone
 cd YOLOv5-ODConvNeXt
 pip install -r requirements.txt  # install
 ```
